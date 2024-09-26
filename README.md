@@ -1,6 +1,9 @@
 # Disneyland Reviews Sentiment Analysis
 
-This project performs sentiment analysis on a dataset containing 42,000 reviews from three Disneyland branches: Paris, California, and Hong Kong. The reviews are sourced from Trip Advisor and include various features such as ratings, review text, and reviewer location.
+This project performs sentiment analysis on a dataset containing 42,000 reviews from three Disneyland branches: Paris, California, and Hong Kong. The reviews are sourced from Trip Advisor and include various features such as ratings, review text, and reviewer location. Download the "DisneylandReviews.csv" dataset from the google drive folder to be able to run. 
+
+# Data Set
+- **Drive**: https://drive.google.com/drive/folders/1XacGiTkJjVTRfmnzsf2w8P8pgfVaNHPi?usp=sharing
 
 # Features
 # Data Exploration: 
