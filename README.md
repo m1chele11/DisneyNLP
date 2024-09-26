@@ -14,9 +14,9 @@ Dataset
 
 # The dataset includes the following columns:
 
-Review_ID: Unique identifier for each review
-Rating: Rating from 1 (unsatisfied) to 5 (satisfied)
-Year_Month: Date of the review
-Reviewer_Location: Country of the reviewer
-Review_Text: The text content of the review
-Disneyland_Branch: The branch of Disneyland being reviewed
+- **Review_ID**: Unique identifier for each review
+- **Rating**: Rating from 1 (unsatisfied) to 5 (satisfied)
+- **Year_Month**: Date of the review
+- **Reviewer_Location**: Country of the reviewer
+- **Review_Text**: The text content of the review
+- **Disneyland_Branch**: The branch of Disneyland being reviewed
